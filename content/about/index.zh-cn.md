@@ -1,8 +1,8 @@
 ---
-title: "关于 ExpNote"
+title: "关于 记路"
 date: 2023-01-09T11:04:49+08:00
 draft: false
-description: "关于 ExpNote"
+description: "关于 记路"
 
 lightgallery: true
 

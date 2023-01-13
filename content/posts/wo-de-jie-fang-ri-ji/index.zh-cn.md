@@ -21,6 +21,7 @@ lightgallery: true
 
 | Property | Description                                |
 |----------|--------------------------------------------|
+| Title    | **我的解放日志**                                 |
 | Type     | TV Series                                  |
 | Link     | https://movie.douban.com/subject/35322421/ |
 | Score    | :star::star::star::star::star:             |
