@@ -22,6 +22,7 @@ lightgallery: true
 | Title          | 豆瓣                                                        | 类型  |
 |----------------|-----------------------------------------------------------|-----|
 | JOJO的奇妙冒险 （01） | [JOJO的奇妙冒險(01)](https://book.douban.com/subject/1467599/) | 漫画  |
-| 我的推变成人了        | [偶像失格](https://book.douban.com/subject/35680099/)          | 小说  |
+| 我的推变成人了        | [偶像失格](https://book.douban.com/subject/35680099/)         | 小说  |
+| 牵手是天堂吗         | [单身即地狱 第一季](https://movie.douban.com/subject/35704514/)    | 韩综  |
 
 

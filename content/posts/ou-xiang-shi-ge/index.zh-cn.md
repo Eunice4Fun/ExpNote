@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "s34133356.png"
 
-tags: []
-categories: []
+tags: ["日本", "小说", "粉丝文化"]
+categories: ["小说"]
 
 lightgallery: true
 ---
