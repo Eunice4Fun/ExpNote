@@ -24,6 +24,7 @@ lightgallery: true
 | JOJO的奇妙冒险 （01） | [JOJO的奇妙冒險(01)](https://book.douban.com/subject/1467599/) | 漫画  |
 | 我的推变成人了        | [偶像失格](https://book.douban.com/subject/35680099/)         | 小说  |
 | 牵手是天堂吗         | [单身即地狱 第一季](https://movie.douban.com/subject/35704514/)   | 韩综  |
-| 我爱孩子，但我后悔当妈妈     | [成为母亲的选择](https://book.douban.com/subject/35687473/)     | 社会学 |
+| 我爱孩子，但我后悔当妈妈   | [成为母亲的选择](https://book.douban.com/subject/35687473/)     | 社会学 |
+| 旅行之木           | [旅行之木](https://book.douban.com/subject/35331764/)     | 游记  |
 
 
