@@ -1,15 +1,15 @@
 ---
 weight: 4
 title: "暴力的正义是否能称之为正义"
-date: 2023-02-20 21:21:50
-lastmod: 2023-02-20 21:21:50
+date: 2023-02-14 21:21:50
+lastmod: 2023-02-14 21:21:50
 draft: false
 author: "册册"
 authorLink: "https://www.douban.com/people/55612785/?_i=3352289iTptjyl"
 images: []
 resources:
 - name: "featured-image"
-  src: "s34067702.png"
+  src: "https://img1.doubanio.com/view/photo/raw/public/p2884876907.jpg"
 
 tags: ["复仇", "校园暴力"]
 categories: ["韩剧"]
