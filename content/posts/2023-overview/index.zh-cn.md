@@ -28,4 +28,5 @@ lightgallery: true
 | 旅行之木          | [旅行之木](https://book.douban.com/subject/35331764/)     | 游记  |
 | 我承认我不曾历经沧桑| [我承认我不曾历经沧桑](https://book.douban.com/subject/25741244/)   | 散文  |
 | 上帝啊，请赐给我一个季代| [舞伎家的料理人](https://movie.douban.com/subject/35727023/)    | 日剧  |
+| 暴力的正义是否能称之为正义| [黑暗荣耀](https://movie.douban.com/subject/35314632/)    | 韩剧  |
 
